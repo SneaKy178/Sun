@@ -534,6 +534,37 @@ border: transparent;
     box-shadow: 0 0 0 1px rgb(255, 0, 0), 2px 2px 2px 0 rgb(255, 0, 0);
 }
 
+.channel-members .member .member-activity-text {
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    color:white;
+    text-shadow: 2px 2px 4px #000000;
+}
+.bd-blue .tooltip {
+    background-color: transparent !important;
+}
+.tooltip {
+    color:white;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+.private-channels .channel .channel-activity-text {
+    color:white;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+
+.nameSelectedText-32NDX5, .nameSelectedVoice-XpjYTw {
+    color:white;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+.chat>.title-wrap>.title .channel-name .channel-icon {
+   color:white;
+    text-shadow: 2px 2px 4px #000000;
+}
+
 
 
 ::-webkit-scrollbar-track {
