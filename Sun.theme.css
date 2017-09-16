@@ -828,6 +828,12 @@ border: transparent;
    background: #E6996F !important;
    }
 
+ .ui-video-bottom, .ui-video-center, .ui-video-top {
+    pointer-events: all;
+    background-color: #E6996F;
+}
+
+
 
 
 
