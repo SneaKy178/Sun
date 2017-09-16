@@ -875,6 +875,11 @@ border: transparent;
 }
 
 
+.theme-dark #friends .friends-header .tab-bar .tab-bar-item:hover:not(.selected) {
+    background-color: #E6996F;
+}
+
+
 
 
 
