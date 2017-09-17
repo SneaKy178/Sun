@@ -879,7 +879,10 @@ border: transparent;
     background-color: #E6996F;
 }
 
-
+.theme-dark .invite-button {
+    background-color: #E6996F;
+    border-color: #2c2e33;
+}
 
 
 
