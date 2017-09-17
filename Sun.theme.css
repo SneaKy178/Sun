@@ -80,7 +80,7 @@
 }
 
 .unread-23Kvxk {
-    background-color: #E6996F;
+    background-color: #transparent;
 }
 .private-channels .channel:hover a {
     background-color: #718270;
@@ -89,7 +89,7 @@
 
 .nameUnreadText-1pxldj,
 .nameUnreadVoice-QK4gxH {
-    color: #E6996F;
+    color: #718270;
     text-shadow: 1px 1px 2px #000000;
 }
 .icon-3tVJnl {
