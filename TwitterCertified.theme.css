@@ -1,0 +1,20 @@
+//META{"name":"Certified","description":"Certified Twitter Icom","author":"SneaKy","version":"1.0.0"}*//{}
+
+/* A big thanks for ms07*/
+
+.comment .first .body .old-h2 .timestamp::before {
+    content: '.';
+    display: inline-block!important;
+    font-size: 1px;
+    width: 16px;
+    height: 16px;
+    background: transparent url('https://i.imgur.com/qtwGIat.png') no-repeat top center;
+    background-size: 16px 16px;
+    padding-top: 12.5px;
+    padding-right: 6px;
+}
+
+.comment .bot-tag {
+    margin-bottom: 10px!important;
+    display: inline-block;
+}
